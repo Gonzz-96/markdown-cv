@@ -35,10 +35,12 @@ Universidad Nacional Autónoma De México (UNAM)
 
 ## Habilidades
 * Android Development
-	* Esenciales: Actividades, Fragmentos, XML, Arquitecture (Clean, Viper).
-	* Librerías: Retrofit, Gson, RxJava, Corutinas, OkHttpClient, Dagger, Koin, Android Architecture Components, Room, SQLite,.
+	* Esenciales: Actividades, Fragmentos, XML, Arquitecture (Clean, Viper), Services, Intent Services, Broadcast Receivers, Ciclo de Vida de Actividades/Fragmentos, Shared Preferences.
+	* Librerías: Retrofit, Gson, RxJava, Corutinas, OkHttpClient, Picasso, Glide, Dagger, Koin, Android Architecture Components, Room, SQLite, Firebase.
+	* Manejador de Dependencias: Gradle, Maven.
 	* Testing: Unit Tests (Junit), Integration Tests (Robolectric, Hamcrest, Espresso), End-To-End Tests, Mocking (Mockito)
 	* Patrones de Diseño: MVC, MVP, MVVM
+	* Clean code. 
 * Lenguajes De Programación
 	* **SQL**, nivel avanzado.
 	* **C**, nivel medio-avanzado.
