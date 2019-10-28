@@ -25,7 +25,7 @@ Mon but principal est celui d'obtenir un bon progrès dès le début de ma ca
 * **Sura:** J'ai donné du support a l'application [Findo](https://play.google.com/store/apps/details?id=com.mx.sura.inversiones.findo&hl=en). Mes activités principales étaient faire des corrections de UI, ajouter de nouvelles functionalités, et integrer quelques librairies de Sura pour Android.
 
 **Wizeline:** *Software Enginer (Mobile-Android)* | (Septembre 2019 - Present)
-* **Fox:** I worked in the creation of common internal components (Android libraries) used by the products of the Fox chain. The goal of this project was to standardized the consume of common services in all of the Fox applications. Also, what this project looked for was to minimze the memory leaks, the workload of the Fox servers, to simplify the integration of services and to speed up the creation of new future products. My responsabilities were including new functionalities to the componentes, creating unit and integration tests, updating docs, making code reviews, a few refactor, etc. I worked closely with the Fox Android team, so all the interactions and communications were completely in english.
+* **Fox:**: J'ai travaillé dans la création de composants communs internes (librairies Android), usé par de diverses produits de la chaîne Fox. Le but principal de ce projet c'était celui de standardiser la consommation de services communs dans toute les applications de fox. De même, ce que cherchait le projet c'était de minimiser les fuites de mémoire, la charge de travaille, de simplifier l'intégration de services et de accélérer le development de nouveaux produits. Mes principales responsabilités c'étaient de inclure de nouvelles functionalités aux composants, créer des tests unitaires et d'intégration, mettre à jour la documentation, faire des révision de code, refactor, etc. J'ai travaillé très prochainement avec l'équipe de Fox, et toute la communication et l'intéraction ont donc été complétement en francais.
 
 ## Academic Information
 **Ingénierie en Computation, spécialisation dans les Bases de Données**
@@ -41,7 +41,7 @@ Domaine: Physique-Mathématique.
 	* Testing: Unit Tests (Junit), Integration Tests (Robolectric, Hamcrest, Espresso), End-To-End Tests, Mocking (Mockito, Mockwebserver)
 	* Patrons de Design: MVC, MVP, MVVM
 	* Clean code. 
-* Programming Languages
+* Langage de Programmation
 	* **SQL**, niveau avancé.
 	* **C**, niveau intermédiaire-avancé.
 	* **Kotlin**, niveau avancé.
@@ -59,26 +59,26 @@ Domaine: Physique-Mathématique.
 
 ## Certifications
 
-* **Cisco CCNA Program Certification, School Of Engineering, UNAM:** including the modules:
+* **Programme de Certification Cisco CCNA, Faculté d'Ingénierie, UNAM:** dont les modules:
 	* *Introduction To Networks*
 	* *Routing And Switching Essentials*
 	* *Scalling Networks* 
 	* *Connecting Networks*. 
 
-* **Diploma Of Tunin and Performance of Database, School Of Enginering, UNAM:** including the modules:
-	* *OLTP Information Systems and SQL*
-	* *Databases Administrations*
-	* *Query Optimization*
-	* *Business Intelligence and Data Science*
-	* *NoSQL Technologies*
-	* *In-memory Databases and Columnar Databases*
-	* *Performance Measurement and Tuning* 
+* **Diplôme de Réglage et Performance de Bases de Données, Faculté d'Ingénierie, UNAM:** dont les modules:
+	* *Systèmes d'Information OLTP et SQL*
+	* *Gestion de Bases de Données*
+	* *Optimisation de queries*
+	* *Business Intelligence et Data Science*
+	* *Technologies NoSQL*
+	* *Bases de Donnés In-memory et Bases de Donnés Columnaires*
+	* *Measurement de Performance et Réglage* 
 	* *Big Data*
 
 ## Languages
-* Anglais: *niveau intermédiaire-avancé*, parlé couramment.
-* Espagnol: *langue maternelle*
+* **Anglais**: *niveau intermédiaire-avancé*, parlé couramment.
+* **Espagnol**: *langue maternelle*
 	* Cours sur la redaction et le style de la langue espagnole, dans la **Faculté d'Ingenierie, UNAM**.
 	* Cours sur l'expression verbale et corporelle, dans la **Faculté d'Ingenierie, UNAM**.
-* Français: *niveau avancé*
+* **Français**: *niveau avancé*
 	* Certification **B2** du **Diplôme d'Études en Langue Française** (**DELF**).
