@@ -1,61 +1,61 @@
 # Erick Gonzalo Campos Galindo (CV)
 
-### General Information
-* **Age:** 22 years old
-* **Location:** Mexico City, Mexico
+### Information Général
+* **Âge:** 22 ans
+* **Location:** Ville du Méxique, Méxique
 
 ### Contact
-* **Phone:** 55 4498 12 86 ó 6833 2333
-* **Email:** gonzalocampose1@gmail.com
+* **Téléphones:** 55 4498 12 86 ou 6833 2333
+* **E-mail:** gonzalocampose1@gmail.com
 
 ### Github
-* **Professional:** [Gonzz-96](https://github.com/Gonzz-96)
-* **Personal:** [eGonzalo96](https://github.com/eGonzalo96)
+* **Professionnel:** [Gonzz-96](https://github.com/Gonzz-96)
+* **Personnel:** [eGonzalo96](https://github.com/eGonzalo96)
 
 
-## Professional Resume
+## Resumé Professionnel
 
-Throughout my academic journey, I have developed several skills which allow me to have a proper interaction in any social environment, where activities concerning my knowledge area are performed. Competences such as: methodology, time administration, research, teamwork and leadership. This skill set drives me in the right direction to achieve optimal solutions to challenging situations related to the engineering field, and beyond.
+Au cours de ma carrière académique, je développai des habilités me permettant avoir une bonne interaction sociale dans presque tout environnement social, où l'on réalise des activités qui concernent à mon domaine de connaissances. Des compétences telles que: la méthodologie, l'administration du temps, l'investigation, le travail en équipe, le leadership, etc., sont des aptitudes donnant une direction correcte à la façon dont on trouve de bonnes solutions aux problèmes qui puissent surgir dans un contexte d'ingénierie (ou même plus loin).
 
-My main goal is to achieve a professional development right from the start of my career, in order to settle down the basis of my professional horizons. I believe I will achieve this development relying on my abilities and adapting as required by the industry.
+Mon but principal est celui d'obtenir un bon progrès dès le début de ma carrière, puisque cela est la base de l'avenir profesionnel. J'atteindrai mon objectif en m'adaptant aux exigences demandées pendant les années par l'industrie et par l'atmosphère de travail.
 
 ## Work Experience
 
-**Vinco Orbis:** *Android Developer Jr.* | (June 2019 - August 2019)
-* **Sura:** I provided support to the [Findo](https://play.google.com/store/apps/details?id=com.mx.sura.inversiones.findo&hl=en) application. My principal activities were making UI corrections, adding new functionalities, and integrating some Sura's libraries for Android.
+**Vinco Orbis:** *Android Developer Jr.* | (Juin 2019 - Août 2019)
+* **Sura:** J'ai donné du support a l'application [Findo](https://play.google.com/store/apps/details?id=com.mx.sura.inversiones.findo&hl=en). Mes activités principales étaient faire des corrections de UI, ajouter de nouvelles functionalités, et integrer quelques librairies de Sura pour Android.
 
-**Wizeline:** *Software Enginer (Mobile-Android)* | (Sepember 2019 - Present)
+**Wizeline:** *Software Enginer (Mobile-Android)* | (Septembre 2019 - Present)
 * **Fox:** I worked in the creation of common internal components (Android libraries) used by the products of the Fox chain. The goal of this project was to standardized the consume of common services in all of the Fox applications. Also, what this project looked for was to minimze the memory leaks, the workload of the Fox servers, to simplify the integration of services and to speed up the creation of new future products. My responsabilities were including new functionalities to the componentes, creating unit and integration tests, updating docs, making code reviews, a few refactor, etc. I worked closely with the Fox Android team, so all the interactions and communications were completely in english.
 
 ## Academic Information
-**Computer Engineering, with Databases Speciality**
-National Autonomous University Of Mexico (UNAM), School Of Engineering
+**Ingénierie en Computation, spécialisation dans les Bases de Données**
+Université National Autonomne Du Méxique (UNAM), Faculté d'Ingénierie
 2014 - 2018
-Area: Physics - Mathematical.
+Domaine: Physique-Mathématique.
 
-## Skills
+## Habilités
 * Android Development
-	* Essentials: Activities, Fragments, XML, Architecture (Clean, Viper), Services, Intent Services, Broadcast Receivers,  Activities/Fragments Lifecycle, Shared Preferences.
-	* Libraries: Retrofit, Gson, RxJava (included RxAndroid and RxKotlin), Corutinas, OkHttpClient, Picasso, Glide, Dagger, Koin, Android Architecture Components, Room, SQLite, Firebase.
-	* Dependency Manager: Gradle, Maven.
+	* Essentiels: Activities, Fragments, XML, Architecture (Clean, Viper), Services, Intent Services, Broadcast Receivers,  Activities/Fragments Lifecycle, Shared Preferences.
+	* Librairies: Retrofit, Gson, RxJava (dont RxAndroid et RxKotlin), Corutinas, OkHttpClient, Picasso, Glide, Dagger, Koin, Android Architecture Components, Room, SQLite, Firebase.
+	* Gestionnaire de Dépandances: Gradle, Maven.
 	* Testing: Unit Tests (Junit), Integration Tests (Robolectric, Hamcrest, Espresso), End-To-End Tests, Mocking (Mockito, Mockwebserver)
-	* Design Patterns: MVC, MVP, MVVM
+	* Patrons de Design: MVC, MVP, MVVM
 	* Clean code. 
 * Programming Languages
-	* **SQL**, advanced level.
-	* **C**, medium-advanced level.
-	* **Kotlin**, advanced level.
-	* **Java**, advanced level.
-	* **Ruby**, medium-advanced level.
-	* **Python**, medium level.
-	* **JavaScript**, medium level.
-* **Git**, advanced level.
-* Use of **Oracle 12c** RDBMS,  and its procedural language **(PL)**.
-* Use of **PostgreSQL** RDBMS,  and its procedural language **(PL)**.
-* Use of **Sybase ASE** RDBMS,  and its procedural language **(PL)**.
-* Use of **PostGIS**, PostgreSQL geographical extension.
-* Use of **GNU/Linux** tools, including **Shell Scripting**.
-* Experience using **Cisco Devices** (switches and routers).
+	* **SQL**, niveau avancé.
+	* **C**, niveau intermédiaire-avancé.
+	* **Kotlin**, niveau avancé.
+	* **Java**, niveau avancé.
+	* **Ruby**, nvieau intermédiaire-avancé.
+	* **Python**, niveau intermédiaire.
+	* **JavaScript**, niveau intermédiaire.
+* **Git**, niveau avancé.
+* Use du RDBMS **Oracle 12c**, et son langage procédural **(PL)**.
+* Use du RDBMS **PostgreSQL**, et son langage procédural  **(PL)**.
+* Use du RDBMS **Sybase ASE**, et son langage procédural  **(PL)**.
+* Use de **PostGIS**, l'extension géographique PostgreSQL .
+* Use d'outils **GNU/Linux**, dont **Shell Scripting**.
+* Experience avec des **Dispositifs Cisco** (switches et routers).
 
 ## Certifications
 
