@@ -76,9 +76,9 @@ Universidad Nacional Autónoma De México, Facultad De Ingeniería (UNAM)
 	* *Big Data*
 
 ## Idiomas
-* Inglés: *nivel intermedio-avanzado*
-* Español: *lengua materna*
+* **Inglés:** *nivel intermedio-avanzado*
+* **Español:** *lengua materna*
 	* Curso en escritura y estilo de la lengua española, por parte de la **Facultad de Ingeniería, UNAM.**
 	* Curso de expresión verbal y corporal, por parte de la **Facultad de Ingeniería, UNAM.**
-* Francés: *nivel avanzado*
+* **Francés:** *nivel avanzado*
 	* Certificación **B2** del **Diploma de Estudios en Lengua Francesa (DELF)** del Marco Común Europeo de Referencia para las Lenguas del Consejo de Europa.
