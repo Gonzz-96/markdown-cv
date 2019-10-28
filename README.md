@@ -76,9 +76,9 @@ Area: Physics - Mathematical.
 	* *Big Data*
 
 ## Languages
-* English: *medium-advenced level*, fluent speaking.
-* Spanish: *native language*
+* **English**: *medium-advenced level*, fluent speaking.
+* **Spanish**: *native language*
 	* Course on writing and style of the Spanish language, at the **School Of Engineering, UNAM**.
 	* Course of verbal and corporal expression, at the **School Of Engineering, UNAM**
-* French: *advanced level*
+* **French**: *advanced level*
 	* Diploma in French Language Studies, **DELF B2**.
