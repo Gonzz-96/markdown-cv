@@ -30,8 +30,8 @@ Mi objetivo es alcanzar un buen crecimiento laboral desde el comienzo de mi carr
 
 ## Estudios
 **Ingeniería en Computación, con especialización en bases de datos**
-Universidad Nacional Autónoma De México (UNAM) 
-2014 - 2018 
+Universidad Nacional Autónoma De México (UNAM)
+2014 - 2018
 Área: Físico - Matemático
 
 ## Habilidades
@@ -60,4 +60,20 @@ Universidad Nacional Autónoma De México (UNAM)
 	* *Scalling Networks* 
 	* *Connecting Networks*. 
 
-* **Diplomado de Rendimiento y Afinación de Bases de Datos, Facultad De Ingeniería:** concluyendo 
+* **Diplomado de Rendimiento y Afinación de Bases de Datos, Facultad De Ingeniería:** concluyendo satisfactoriamente los módulos:
+	* *Sistemas de Información OLTP y SQL*
+	* *Administración de Bases de Datos*
+	* *Optimización de Consultas*
+	* Inteligencia de Negocios y Ciencia de Datos
+	* *Bases de Datos NoSQL*
+	* *BD's Columnares y BD's en Memoria*
+	* *Medición de Rendimiento y Afinación* 
+	* *Big Data*
+
+## Idiomas
+* Inglés: *nivel intermedio-avanzado*
+* Español: *lengua materna*
+	* Curso en escritura y estilo de la lengua española, por parte de la **Facultad de Ingeniería, UNAM.**
+	* Curso de expresión verbal y corporal, por parte de la **Facultad de Ingeniería, UNAM.**
+* Francés: *nivel avanzado*
+	* Certificación **B2** del **Diploma de Estudios en Lengua Francesa (DELF)** del Marco Común Europeo de Referencia para las Lenguas del Consejo de Europa.
