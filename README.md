@@ -76,9 +76,9 @@ Domaine: Physique-Mathématique.
 	* *Big Data*
 
 ## Languages
-* English: *medium-advenced level*, fluent speaking.
-* Spanish: *native language*
-	* Course on writing and style of the Spanish language, at the **School Of Engineering, UNAM**.
-	* Course of verbal and corporal expression, at the **School Of Engineering, UNAM**
-* French: *advanced level*
-	* Diploma in French Language Studies, **DELF B2**.
+* Anglais: *niveau intermédiaire-avancé*, parlé couramment.
+* Espagnol: *langue maternelle*
+	* Cours sur la redaction et le style de la langue espagnole, dans la **Faculté d'Ingenierie, UNAM**.
+	* Cours sur l'expression verbale et corporelle, dans la **Faculté d'Ingenierie, UNAM**.
+* Français: *niveau avancé*
+	* Certification **B2** du **Diplôme d'Études en Langue Française** (**DELF**).
