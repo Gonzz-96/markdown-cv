@@ -24,21 +24,21 @@ Mi objetivo es alcanzar un buen crecimiento laboral desde el comienzo de mi carr
 **Vinco Orbis:** *Android Developer Jr.* | (Junio 2019 - Agosto 2019)
 * **Sura:** Trabajé en la mantención de la aplicación [Findo](https://play.google.com/store/apps/details?id=com.mx.sura.inversiones.findo&hl=en), aplicación para el ahorro en familia. Mis actividades principales fueron correcciones de UI, adición de nuevas funcionalidades, y la integración de diversas librerías propias de Sura.
 
-**Wizeline:** *Android Developer* | (Septiembre 2019 - Actualidad)
+**Wizeline:** *Software Engineer (Mobile-Android)* | (Septiembre 2019 - Actualidad)
 * **Fox:** Trabajé en la creación de componentes comunes internos para los productos de la cadena Fox. La finalidad de este proyecto fue el de estandarizar el consumo de servicios comunes en diversas aplicaciones de Fox. Con este proyecto, se buscó minimizar la pérdida de memoria, la carga de los servidores de Fox, simplificar la integración de los servicios y agilizar el proceso de creación de productos. Mi responabilidades en este proyecto fue la de incluir nuevas funcionalidades a los componentes, realizar pruebas unitarias y de integración, actualizar documentación, hacer revisiones de código, hacer un poco de refactorización, etc. Las interacciones se llevaron a cabo con equipos de Fox, por lo que la comunicación fue completamente en inglés.
 
 ## Estudios
 **Ingeniería en Computación, con especialización en bases de datos**
-Universidad Nacional Autónoma De México (UNAM)
+Universidad Nacional Autónoma De México, Facultad De Ingeniería (UNAM)
 2014 - 2018
 Área: Físico - Matemático
 
 ## Habilidades
 * Android Development
 	* Esenciales: Actividades, Fragmentos, XML, Arquitecture (Clean, Viper), Services, Intent Services, Broadcast Receivers, Ciclo de Vida de Actividades/Fragmentos, Shared Preferences.
-	* Librerías: Retrofit, Gson, RxJava, Corutinas, OkHttpClient, Picasso, Glide, Dagger, Koin, Android Architecture Components, Room, SQLite, Firebase.
+	* Librerías: Retrofit, Gson, RxJava (incluido RxAndroid y RxKotlin), Corutinas, OkHttpClient, Picasso, Glide, Dagger, Koin, Android Architecture Components, Room, SQLite, Firebase.
 	* Manejador de Dependencias: Gradle, Maven.
-	* Testing: Unit Tests (Junit), Integration Tests (Robolectric, Hamcrest, Espresso), End-To-End Tests, Mocking (Mockito)
+	* Testing: Unit Tests (Junit), Integration Tests (Robolectric, Hamcrest, Espresso), End-To-End Tests, Mocking (Mockito, Mockwebserver)
 	* Patrones de Diseño: MVC, MVP, MVVM
 	* Clean code. 
 * Lenguajes De Programación
