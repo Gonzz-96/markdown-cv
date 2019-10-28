@@ -1,84 +1,84 @@
 # Erick Gonzalo Campos Galindo (CV)
 
-### Información general
-* **Edad:** 22 años
-* **Ubicación:** Ciudad de México, México
+### General Information
+* **Age:** 22 years old
+* **Location:** Mexico City, Mexico
 
-### Contacto
-* **Teléfonos:** 55 4498 12 86 ó 6833 2333
-* **Correo electrónico:** gonzalocampose1@gmail.com
+### Contact
+* **Phone:** 55 4498 12 86 ó 6833 2333
+* **Email:** gonzalocampose1@gmail.com
 
 ### Github
-* **Profesional:** [Gonzz-96](https://github.com/Gonzz-96)
+* **Professional:** [Gonzz-96](https://github.com/Gonzz-96)
 * **Personal:** [eGonzalo96](https://github.com/eGonzalo96)
 
 
-## Resumen Profesional
+## Professional Resume
 
-A lo largo de mi carrera académica, he desarrollado habilidades que permiten un desenvolvimiento pleno en cualquier ambiente social donde se realicen trabajos concernientes a mi área de conocimiento. Competencias tales como: la metodología, la administración del tiempo, la investigación, el trabajo en equipo, el liderazgo, etc., son aptitudes que dan pauta a una dirección correcta sobre cómo llegar a soluciones de problemas de la manera más acertada, y que busco empedernidamente aplicar.
+Throughout my academic journey, I have developed several skills which allow me to have a proper interaction in any social environment, where activities concerning my knowledge area are performed. Competences such as: methodology, time administration, research, teamwork and leadership. This skill set drives me in the right direction to achieve optimal solutions to challenging situations related to the engineering field, and beyond.
 
-Mi objetivo es alcanzar un buen crecimiento laboral desde el comienzo de mi carrera, dado que resulta ser la piedra angular para el futuro, adaptándome poco a poco a las exigencias que el mercado y el ambiente de trabajo requieran a lo largo de los años.
+My main goal is to achieve a professional development right from the start of my career, in order to settle down the basis of my professional horizons. I believe I will achieve this development relying on my abilities and adapting as required by the industry.
 
-## Experiencia Laboral
+## Work Experience
 
-**Vinco Orbis:** *Android Developer Jr.* | (Junio 2019 - Agosto 2019)
-* **Sura:** Trabajé en la mantención de la aplicación [Findo](https://play.google.com/store/apps/details?id=com.mx.sura.inversiones.findo&hl=en), aplicación para el ahorro en familia. Mis actividades principales fueron correcciones de UI, adición de nuevas funcionalidades, y la integración de diversas librerías propias de Sura.
+**Vinco Orbis:** *Android Developer Jr.* | (June 2019 - August 2019)
+* **Sura:** I provided support to the [Findo](https://play.google.com/store/apps/details?id=com.mx.sura.inversiones.findo&hl=en) application. My principal activities were making UI corrections, adding new functionalities, and integrating some Sura's libraries for Android.
 
-**Wizeline:** *Android Developer* | (Septiembre 2019 - Actualidad)
-* **Fox:** Trabajé en la creación de componentes comunes internos para los productos de la cadena Fox. La finalidad de este proyecto fue el de estandarizar el consumo de servicios comunes en diversas aplicaciones de Fox. Con este proyecto, se buscó minimizar la pérdida de memoria, la carga de los servidores de Fox, simplificar la integración de los servicios y agilizar el proceso de creación de productos. Mi responabilidades en este proyecto fue la de incluir nuevas funcionalidades a los componentes, realizar pruebas unitarias y de integración, actualizar documentación, hacer revisiones de código, hacer un poco de refactorización, etc. Las interacciones se llevaron a cabo con equipos de Fox, por lo que la comunicación fue completamente en inglés.
+**Wizeline:** *Software Enginer (Mobile-Android)* | (Sepember 2019 - Present)
+* **Fox:** I worked in the creation of common internal components (Android libraries) used by the products of the Fox chain. The goal of this project was to standardized the consume of common services in all of the Fox applications. Also, what this project looked for was to minimze the memory leaks, the workload of the Fox servers, to simplify the integration of services and to speed up the creation of new future products. My responsabilities were including new functionalities to the componentes, creating unit and integration tests, updating docs, making code reviews, a few refactor, etc. I worked closely with the Fox Android team, so all the interactions and communications were completely in english.
 
-## Estudios
-**Ingeniería en Computación, con especialización en bases de datos**
-Universidad Nacional Autónoma De México (UNAM)
+## Academic Information
+**Computer Engineering, with Databases Speciality**
+National Autonomous University Of Mexico (UNAM), School Of Engineering
 2014 - 2018
-Área: Físico - Matemático
+Area: Physics - Mathematical.
 
-## Habilidades
+## Skills
 * Android Development
-	* Esenciales: Actividades, Fragmentos, XML, Arquitecture (Clean, Viper), Services, Intent Services, Broadcast Receivers, Ciclo de Vida de Actividades/Fragmentos, Shared Preferences.
-	* Librerías: Retrofit, Gson, RxJava, Corutinas, OkHttpClient, Picasso, Glide, Dagger, Koin, Android Architecture Components, Room, SQLite, Firebase.
-	* Manejador de Dependencias: Gradle, Maven.
-	* Testing: Unit Tests (Junit), Integration Tests (Robolectric, Hamcrest, Espresso), End-To-End Tests, Mocking (Mockito)
-	* Patrones de Diseño: MVC, MVP, MVVM
+	* Essentials: Activities, Fragments, XML, Architecture (Clean, Viper), Services, Intent Services, Broadcast Receivers,  Activities/Fragments Lifecycle, Shared Preferences.
+	* Libraries: Retrofit, Gson, RxJava (included RxAndroid and RxKotlin), Corutinas, OkHttpClient, Picasso, Glide, Dagger, Koin, Android Architecture Components, Room, SQLite, Firebase.
+	* Dependency Manager: Gradle, Maven.
+	* Testing: Unit Tests (Junit), Integration Tests (Robolectric, Hamcrest, Espresso), End-To-End Tests, Mocking (Mockito, Mockwebserver)
+	* Design Patterns: MVC, MVP, MVVM
 	* Clean code. 
-* Lenguajes De Programación
-	* **SQL**, nivel avanzado.
-	* **C**, nivel medio-avanzado.
-	* **Kotlin**, nivel avanzado.
-	* **Java**, nivel avanzado.
-	* **Ruby**, nivel intermedio-avanzado.
-	* **Python**, nivel intermedio.
-	* **JavaScript**, nivel intermedio.
-* **Git**, nivel avanzado.
-* Uso del RDBMS **Oracle 12c**,  y su lenguaje procedural **(PL)**.
-* Uso del RDBMS **PostgreSQL**,  y su lenguaje procedural **(PL)**.
-* Uso del RDBMS **Sybase ASE**,  y su lenguaje procedural **(PL)**.
-* Uso de **PostGIS**, extensión geográfica de PosgreSQL.
-* Uso de herramientas **GNU/Linux**, incluido **Shell Scripting**.
-* Experiencia configurando **dispositivos Cisco** (switches y routers).
+* Programming Languages
+	* **SQL**, advanced level.
+	* **C**, medium-advanced level.
+	* **Kotlin**, advanced level.
+	* **Java**, advanced level.
+	* **Ruby**, medium-advanced level.
+	* **Python**, medium level.
+	* **JavaScript**, medium level.
+* **Git**, advanced level.
+* Use of **Oracle 12c** RDBMS,  and its procedural language **(PL)**.
+* Use of **PostgreSQL** RDBMS,  and its procedural language **(PL)**.
+* Use of **Sybase ASE** RDBMS,  and its procedural language **(PL)**.
+* Use of **PostGIS**, PostgreSQL geographical extension.
+* Use of **GNU/Linux** tools, including **Shell Scripting**.
+* Experience using **Cisco Devices** (switches and routers).
 
-## Cursos / Certificaciones
+## Certifications
 
-* **Programa de certificación Cisco CCNA, Facultad De Ingeniería:** concluyendo satisfactoriamente los módulos:
+* **Cisco CCNA Program Certification, School Of Engineering, UNAM:** including the modules:
 	* *Introduction To Networks*
 	* *Routing And Switching Essentials*
 	* *Scalling Networks* 
 	* *Connecting Networks*. 
 
-* **Diplomado de Rendimiento y Afinación de Bases de Datos, Facultad De Ingeniería:** concluyendo satisfactoriamente los módulos:
-	* *Sistemas de Información OLTP y SQL*
-	* *Administración de Bases de Datos*
-	* *Optimización de Consultas*
-	* Inteligencia de Negocios y Ciencia de Datos
-	* *Bases de Datos NoSQL*
-	* *BD's Columnares y BD's en Memoria*
-	* *Medición de Rendimiento y Afinación* 
+* **Diploma Of Tuning and Performance of Database, School Of Enginering, UNAM:** including the modules:
+	* *OLTP Information Systems and SQL*
+	* *Databases Administrations*
+	* *Query Optimization*
+	* *Business Intelligence and Data Science*
+	* *NoSQL Technologies*
+	* *In-memory Databases and Columnar Databases*
+	* *Performance Measurement and Tuning* 
 	* *Big Data*
 
-## Idiomas
-* Inglés: *nivel intermedio-avanzado*
-* Español: *lengua materna*
-	* Curso en escritura y estilo de la lengua española, por parte de la **Facultad de Ingeniería, UNAM.**
-	* Curso de expresión verbal y corporal, por parte de la **Facultad de Ingeniería, UNAM.**
-* Francés: *nivel avanzado*
-	* Certificación **B2** del **Diploma de Estudios en Lengua Francesa (DELF)** del Marco Común Europeo de Referencia para las Lenguas del Consejo de Europa.
+## Languages
+* English: *medium-advenced level*, fluent speaking.
+* Spanish: *native language*
+	* Course on writing and style of the Spanish language, at the **School Of Engineering, UNAM**.
+	* Course of verbal and corporal expression, at the **School Of Engineering, UNAM**
+* French: *advanced level*
+	* Diploma in French Language Studies, **DELF B2**.
