@@ -25,7 +25,7 @@ Mi objetivo es alcanzar un buen crecimiento laboral desde el comienzo de mi carr
 * **Sura:** Trabajé en la mantención de la aplicación [Findo](https://play.google.com/store/apps/details?id=com.mx.sura.inversiones.findo&hl=en), aplicación para el ahorro en familia. Mis actividades principales fueron correcciones de UI, adición de nuevas funcionalidades, y la integración de diversas librerías propias de Sura.
 
 **Wizeline:** *Android Developer* | (Septiembre 2019 - Actualidad)
-* **Fox:** Trabajé en la creación de componentes comunes internos para los productos de la cadena Fox. La finalidad de este proyecto fue el de estandarizar el consumo de servicios comunes en diversas aplicaciones de Fox. Con este proyecto, se buscó minimizar la pérdida de memoria, la carga de los servidores de Fox, simplificar la integración de los servicios y agilizar el proceso de creación de productos. Mi responabilidades en este proyecto fue la de incluir nuevas funcionalidades a los componentes, realizar pruebas,
+* **Fox:** Trabajé en la creación de componentes comunes internos para los productos de la cadena Fox. La finalidad de este proyecto fue el de estandarizar el consumo de servicios comunes en diversas aplicaciones de Fox. Con este proyecto, se buscó minimizar la pérdida de memoria, la carga de los servidores de Fox, simplificar la integración de los servicios y agilizar el proceso de creación de productos. Mi responabilidades en este proyecto fue la de incluir nuevas funcionalidades a los componentes, realizar pruebas unitarias y de integración, actualizar documentación, hacer revisiones de código, hacer un poco de refactorización, etc. Las interacciones se llevaron a cabo con equipos de Fox, por lo que la comunicación fue completamente en inglés.
 
 ## Estudios
 **Ingeniería en Computación, con especialización en bases de datos**
@@ -48,7 +48,7 @@ Universidad Nacional Autónoma De México (UNAM)
 	* **Java**, nivel avanzado.
 	* **Ruby**, nivel intermedio-avanzado.
 	* **Python**, nivel intermedio.
-	* **JavaScript*, nivel intermedio.
+	* **JavaScript**, nivel intermedio.
 * **Git**, nivel avanzado.
 * Uso del RDBMS **Oracle 12c**,  y su lenguaje procedural **(PL)**.
 * Uso del RDBMS **PostgreSQL**,  y su lenguaje procedural **(PL)**.
