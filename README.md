@@ -41,6 +41,8 @@ Universidad Nacional Autónoma De México, Facultad De Ingeniería (UNAM)
 	* Testing: Unit Tests (Junit), Integration Tests (Robolectric, Hamcrest, Espresso), End-To-End Tests, Mocking (Mockito, Mockwebserver)
 	* Patrones de Diseño: MVC, MVP, MVVM
 	* Clean code. 
+* Programación multiplataforma
+    * **React Native**
 * Lenguajes De Programación
 	* **SQL**, nivel avanzado.
 	* **C**, nivel medio-avanzado.
