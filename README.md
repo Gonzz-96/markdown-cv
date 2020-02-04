@@ -41,6 +41,8 @@ Area: Physics - Mathematical.
 	* Testing: Unit Tests (Junit), Integration Tests (Robolectric, Hamcrest, Espresso), End-To-End Tests, Mocking (Mockito, Mockwebserver)
 	* Design Patterns: MVC, MVP, MVVM
 	* Clean code. 
+* Cross-platform programming
+    * **React Native**
 * Programming Languages
 	* **SQL**, advanced level.
 	* **C**, medium-advanced level.
