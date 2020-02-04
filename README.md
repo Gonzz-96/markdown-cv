@@ -41,6 +41,8 @@ Domaine: Physique-Mathématique.
 	* Testing: Unit Tests (Junit), Integration Tests (Robolectric, Hamcrest, Espresso), End-To-End Tests, Mocking (Mockito, Mockwebserver)
 	* Patrons de Design: MVC, MVP, MVVM
 	* Clean code. 
+* Programation Multiplateforme
+    * **React Native**
 * Langage de Programmation
 	* **SQL**, niveau avancé.
 	* **C**, niveau intermédiaire-avancé.
