@@ -1,7 +1,7 @@
 # Erick Gonzalo Campos Galindo (CV)
 
 ### Information Général
-* **Âge:** 22 ans
+* **Âge:** 23 ans
 * **Location:** Ville du Méxique, Méxique
 
 ### Contact
