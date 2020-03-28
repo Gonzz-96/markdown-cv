@@ -43,6 +43,7 @@ Universidad Nacional Autónoma De México, Facultad De Ingeniería (UNAM)
 	* Clean code. 
 * Programación multiplataforma
     * **React Native**
+    * **Flutter**
 * Lenguajes De Programación
 	* **SQL**, nivel avanzado.
 	* **C**, nivel medio-avanzado.
