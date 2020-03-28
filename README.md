@@ -43,6 +43,7 @@ Domaine: Physique-Mathématique.
 	* Clean code. 
 * Programation Multiplateforme
     * **React Native**
+    * **Flutter**
 * Langage de Programmation
 	* **SQL**, niveau avancé.
 	* **C**, niveau intermédiaire-avancé.
