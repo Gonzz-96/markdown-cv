@@ -1,7 +1,7 @@
 # Erick Gonzalo Campos Galindo (CV)
 
 ### Información general
-* **Edad:** 22 años
+* **Edad:** 23 años
 * **Ubicación:** Ciudad de México, México
 
 ### Contacto
