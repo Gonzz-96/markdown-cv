@@ -43,6 +43,7 @@ Area: Physics - Mathematical.
 	* Clean code. 
 * Cross-platform programming
     * **React Native**
+    * **Flutter**
 * Programming Languages
 	* **SQL**, advanced level.
 	* **C**, medium-advanced level.
