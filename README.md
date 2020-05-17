@@ -5,7 +5,7 @@
 * **Location:** Ville du Méxique, Méxique
 
 ### Contact
-* **Téléphones:** 55 4498 12 86 ou 6833 2333
+* **Téléphones:** 55 4498 1286
 * **E-mail:** gonzalocampose1@gmail.com
 
 ### Github
