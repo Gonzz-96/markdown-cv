@@ -5,7 +5,7 @@
 * **Location:** Mexico City, Mexico
 
 ### Contact
-* **Phone:** 55 4498 12 86 ó 6833 2333
+* **Phone:** 55 4498 1286
 * **Email:** gonzalocampose1@gmail.com
 
 ### Github
@@ -57,9 +57,9 @@ Area: Physics - Mathematical.
 	* **Python**, medium level.
 	* **JavaScript**, medium level.
 * **Git**, advanced level.
-* Use of **Oracle 12c** RDBMS,  and its procedural language **(PL)**.
-* Use of **PostgreSQL** RDBMS,  and its procedural language **(PL)**.
-* Use of **Sybase ASE** RDBMS,  and its procedural language **(PL)**.
+* Use of **Oracle 12c** RDBMS, and its procedural language **(PL)**.
+* Use of **PostgreSQL** RDBMS, and its procedural language **(PL)**.
+* Use of **Sybase ASE** RDBMS, and its procedural language **(PL)**.
 * Use of **PostGIS**, PostgreSQL geographical extension.
 * Use of **GNU/Linux** tools, including **Shell Scripting**.
 * Experience using **Cisco Devices** (switches and routers).
