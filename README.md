@@ -5,7 +5,7 @@
 * **Ubicación:** Ciudad de México, México
 
 ### Contacto
-* **Teléfonos:** 55 4498 12 86 ó 6833 2333
+* **Teléfonos:** 55 4498 1286
 * **Correo electrónico:** gonzalocampose1@gmail.com
 
 ### Github
@@ -55,9 +55,9 @@ Universidad Nacional Autónoma De México, Facultad De Ingeniería (UNAM)
 	* **Python**, nivel intermedio.
 	* **JavaScript**, nivel intermedio.
 * **Git**, nivel avanzado.
-* Uso del RDBMS **Oracle 12c**,  y su lenguaje procedural **(PL)**.
-* Uso del RDBMS **PostgreSQL**,  y su lenguaje procedural **(PL)**.
-* Uso del RDBMS **Sybase ASE**,  y su lenguaje procedural **(PL)**.
+* Uso del RDBMS **Oracle 12c**, y su lenguaje procedural **(PL)**.
+* Uso del RDBMS **PostgreSQL**, y su lenguaje procedural **(PL)**.
+* Uso del RDBMS **Sybase ASE**, y su lenguaje procedural **(PL)**.
 * Uso de **PostGIS**, extensión geográfica de PosgreSQL.
 * Uso de herramientas **GNU/Linux**, incluido **Shell Scripting**.
 * Experiencia configurando **dispositivos Cisco** (switches y routers).
