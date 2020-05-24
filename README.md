@@ -30,9 +30,10 @@ Mon but principal est celui d'obtenir un bon progrès dès le début de ma ca
 * **Foodie:** j'ai travaillé dans la création d'une application interne, utilisé par les employés, leur permettant de choisir ses repas préférés pour le service alimentaire que Wizeline nous offrait. Ce projet a été vu comme une extension du web service déjà existant, aver une série d'improvements qui ont été possible grâce aux capacité du système d'exploitation Android. Le projet est fortement basée sur la **Clean Architecture**, et utilisait le patron de design **MVVM**, lequel me permettait d'avoir un code reactive dans un niveau de UI. En plus, le projet utilise un ensemble de libraries dont: **Apollo**, un client Android pour **GraphQL**, l'injecteur de dépandance **Koin** et **Kotlin Coroutines**.
 
 ## Academic Information
-**Ingénierie en Computation, spécialisation dans les Bases de Données**
-Université National Autonomne Du Méxique (UNAM), Faculté d'Ingénierie
-2014 - 2018
+**Ingénierie en Computation, spécialisation dans les Bases de Données**<br>
+*Diplômé et titulaire d’une carte professionnelle*<br>
+Université National Autonomne Du Méxique (UNAM), Faculté d'Ingénierie<br>
+2014 - 2018<br>
 Domaine: Physique-Mathématique.
 
 ## Habilités
@@ -43,7 +44,9 @@ Domaine: Physique-Mathématique.
 	* Testing: Unit Tests (Junit), Integration Tests (Robolectric, Hamcrest, Espresso), End-To-End Tests, Mocking (Mockito, Mockwebserver)
 	* Patrons de Design: MVC, MVP, MVVM
 	* Architecture: **Clean Architecture**, **Viper Architecture**.
-	* Clean code. 
+	* Clean code.
+* Java Development
+	* **Spring Boot**
 * Programation Multiplateforme
     * **React Native**
     * **Flutter**
