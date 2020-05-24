@@ -30,8 +30,9 @@ My main goal is to achieve a professional development right from the start of my
 * **Foodie:** I worked on a Wizeline internal service used for the catering service. This project allowed the users to choose their favorite meals for the whole laboral week in Wizeline. This project was seen as an extension of an already existing web service, and was expanded with a serie of improvements made possible thanks to the Android Framework (reminders, optimization of network calls, caching). This project was based on **Clean Architecture**, using the **MVVM** design pattern, which allowed me to include a reactive code in an UI level. Also, this project uses **Apollo**, an Android **GraphQL** client, in addition to **Koin** dependency injector and **Kotlin Coroutines**.
 
 ## Academic Information
-**Computer Engineering, with Databases Speciality**
-National Autonomous University Of Mexico (UNAM), School Of Engineering
+**Computer Engineering, with Databases Speciality**<br>
+*With bachelor degree and professional license*<br>
+National Autonomous University Of Mexico (UNAM), School Of Engineering<br>
 2014 - 2018
 Area: Physics - Mathematical.
 
@@ -44,6 +45,8 @@ Area: Physics - Mathematical.
 	* Design Patterns: MVC, MVP, MVVM.
 	* Architecture: **Clean Architecture**, **Viper Architecture**.
 	* Clean code. 
+* Java Development
+	* **Spring Booot**
 * Cross-platform programming
     * **React Native**
     * **Flutter**
