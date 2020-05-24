@@ -28,9 +28,9 @@ Mi objetivo es alcanzar un buen crecimiento laboral desde el comienzo de mi carr
 * **Foodie:** Se trata de un proyecto interno de Wizeline utilizado para el servicio de comida. Con este proyecto, el usuairo era capaz de elegir los alimentos de su preferencia para ser consumidos en un día laboral dentro de Wizeline. Este proyecto fue visto como una extensión del servicio web que se ofrecía, con una serie de mejoras que las capacidades de Android podría oferecernos. El proyecto se encuentra basado en **Clean Architecture**, usando el patrón de diseño **MVVM**, lo cual permitió fuertemente la inclusión de programación reactiva en nivel de UI. Además, el proyecto utiliza **Apollo**, cliente para **GraphQL**, sin mencionar el inyector de dependencias **Koin** y **corutinas de Kotlin**.
 
 ## Estudios
-**Ingeniería en Computación, con especialización en bases de datos**
-Universidad Nacional Autónoma De México, Facultad De Ingeniería (UNAM)
-2014 - 2018
+**Ingeniería en Computación, con especialización en bases de datos**<br>
+*Titulado y con cédula profesional*<br>
+Universidad Nacional Autónoma De México, Facultad De Ingeniería (UNAM), 2014 - 2018<br>
 Área: Físico - Matemático
 
 ## Habilidades
@@ -42,6 +42,8 @@ Universidad Nacional Autónoma De México, Facultad De Ingeniería (UNAM)
 	* Patrones de Diseño: MVC, MVP, MVVM
 	* Arquitectura: **Clean Architecture**, **Viper Architecture**.
 	* Clean code. 
+* Java Development
+	* **Spring Boot**
 * Programación multiplataforma
     * **React Native**
     * **Flutter**
