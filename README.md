@@ -1,7 +1,7 @@
 # Erick Gonzalo Campos Galindo (CV)
 
 ### Information Général
-* **Âge:** 23 ans
+* **Âge:** 24 ans
 * **Location:** Ville du Méxique, Méxique
 
 ### Contact
@@ -25,9 +25,9 @@ Mon but principal est celui d'obtenir un bon progrès dès le début de ma ca
 * **Sura:** J'ai donné du support a l'application [Findo](https://play.google.com/store/apps/details?id=com.mx.sura.inversiones.findo&hl=en). Mes activités principales étaient faire des corrections de UI, ajouter de nouvelles functionalités, et integrer quelques librairies de Sura pour Android. . L'application était basée sur la **Clean Architecture**, et avait une énorme accent sur la programmationn reactive, obtenu  grâce à la librarie **RxJava**. En plus, d'autres libraries Android furent utilisées dans ce project, comme: **OkHttp**, **Crashlytics** et **Picasso**, et quelques libraries pour le testing: **JUnit**, **Espresso** et **Robolectric**.
 
 **Wizeline:** *Software Enginer (Mobile-Android)* | (Septembre 2019 - Present)
-* **Fox:**: J'ai travaillé dans la création de composants communs internes (librairies Android), usé par de diverses produits de la chaîne Fox. Le but principal de ce projet c'était celui de standardiser la consommation de services communs dans toute les applications de fox. De même, ce que cherchait le projet c'était de minimiser les fuites de mémoire, la charge de travaille, de simplifier l'intégration de services et de accélérer le development de nouveaux produits. Mes principales responsabilités c'étaient de inclure de nouvelles functionalités aux composants, créer des tests unitaires et d'intégration, mettre à jour la documentation, faire des révision de code, refactor, etc. J'ai travaillé très prochainement avec l'équipe de Fox, et toute la communication et l'intéraction ont donc été complétement en anglais. En outre, ce project utilisait une architecture personalisée par les membres de l'équipe. On utilisait peu de dépandance: **OkHttp**, ** Kotlin Coroutines** et quelque dépandance de **AndroidX** et **Jetpack**.
+* **Fox:**: J'ai travaillé dans la création de composants communs internes (librairies Android), usé par de diverses produits de la chaîne Fox. Le but principal de ce projet c'était celui de standardiser la consommation de services communs dans toute les applications de fox. De même, ce que cherchait le projet c'était de minimiser les fuites de mémoire, la charge de travaille, de simplifier l'intégration de services et d'accélérer le development de nouveaux produits. Mes principales responsabilités c'étaient d'inclure de nouvelles functionalités aux composants, créer des tests unitaires et d'intégration, mettre à jour la documentation, faire des révision de code, refactor, etc. J'ai travaillé très prochainement avec l'équipe de Fox, et toute la communication et l'intéraction ont donc été complétement en anglais. En outre, ce project utilisait une architecture personalisée par les membres de l'équipe. On utilisait peu de dépandances: **OkHttp**, **Kotlin Coroutines** et quelque dépandance de **AndroidX** et **Jetpack**.
 
-* **Foodie:** j'ai travaillé dans la création d'une application interne, utilisé par les employés, leur permettant de choisir ses repas préférés pour le service alimentaire que Wizeline nous offrait. Ce projet a été vu comme une extension du web service déjà existant, aver une série d'improvements qui ont été possible grâce aux capacité du système d'exploitation Android. Le projet est fortement basée sur la **Clean Architecture**, et utilisait le patron de design **MVVM**, lequel me permettait d'avoir un code reactive dans un niveau de UI. En plus, le projet utilise un ensemble de libraries dont: **Apollo**, un client Android pour **GraphQL**, l'injecteur de dépandance **Koin** et **Kotlin Coroutines**.
+* **Foodie:** j'ai travaillé dans la création d'une application interne, utilisé par les employés, leur permettant de choisir ses repas préférés pour le service alimentaire que Wizeline nous offrait. Ce projet a été vu comme une extension du web service déjà existant, avec une série d'improvements qui ont été possible grâce aux capacité du système d'exploitation Android. Le projet est fortement basée sur la **Clean Architecture**, et utilisait le patron de design **MVVM**, lequel me permettait d'avoir un code reactive dans un niveau de UI. En plus, le projet utilise un ensemble de libraries dont: **Apollo**, un client Android pour **GraphQL**, l'injecteur de dépandance **Koin** et des **Kotlin Coroutines**.
 
 ## Academic Information
 **Ingénierie en Computation, spécialisation dans les Bases de Données**<br>
@@ -39,17 +39,17 @@ Domaine: Physique-Mathématique.
 ## Habilités
 * Android Development
 	* Essentiels: Activities, Fragments, XML, Architecture (Clean, Viper), Services, Intent Services, Broadcast Receivers,  Activities/Fragments Lifecycle, Shared Preferences.
-	* Librairies: Retrofit, Gson, RxJava (dont RxAndroid et RxKotlin), Corutinas, OkHttpClient, Picasso, Glide, Dagger, Koin, Android Architecture Components, Room, SQLite, Firebase, Apollo, WorkManager, Material Design, etc.
+	* Librairies: Retrofit, Gson, RxJava (dont RxAndroid et RxKotlin), Corutinas, OkHttpClient, Picasso, Glide, Dagger, Koin, Android Architecture Components, Room, SQLite, Firebase, Apollo, WorkManager, Material Design, Hilt, etc.
 	* Gestionnaire de Dépandances: Gradle, Maven.
 	* Testing: Unit Tests (Junit), Integration Tests (Robolectric, Hamcrest, Espresso), End-To-End Tests, Mocking (Mockito, Mockwebserver)
 	* Patrons de Design: MVC, MVP, MVVM
-	* Architecture: **Clean Architecture**, **Viper Architecture**.
+	* Architecture: Clean Architecture, Viper Architecture.
 	* Clean code.
 * Java Development
-	* **Spring Boot**
+	* Spring Boot
 * Programation Multiplateforme
-    * **React Native**
-    * **Flutter**
+    * React Native
+    * Flutter
 * Langage de Programmation
 	* **Kotlin**, niveau avancé.
 	* **Java**, niveau avancé.
@@ -68,7 +68,6 @@ Domaine: Physique-Mathématique.
 * Experience avec des **Dispositifs Cisco** (switches et routers).
 
 ## Certifications
-
 * **Programme de Certification Cisco CCNA, Faculté d'Ingénierie, UNAM:** dont les modules:
 	* *Introduction To Networks*
 	* *Routing And Switching Essentials*
@@ -87,8 +86,8 @@ Domaine: Physique-Mathématique.
 
 ## Languages
 * **Anglais**: *niveau intermédiaire-avancé*, parlé couramment.
+* **Français**: *niveau avancé*
+	* Certification **B2** du **Diplôme d'Études en Langue Française** (**DELF**).
 * **Espagnol**: *langue maternelle*
 	* Cours sur la redaction et le style de la langue espagnole, dans la **Faculté d'Ingenierie, UNAM**.
 	* Cours sur l'expression verbale et corporelle, dans la **Faculté d'Ingenierie, UNAM**.
-* **Français**: *niveau avancé*
-	* Certification **B2** du **Diplôme d'Études en Langue Française** (**DELF**).
