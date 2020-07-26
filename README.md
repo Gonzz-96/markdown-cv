@@ -1,7 +1,7 @@
 # Erick Gonzalo Campos Galindo (CV)
 
 ### Información general
-* **Edad:** 23 años
+* **Edad:** 24 años
 * **Ubicación:** Ciudad de México, México
 
 ### Contacto
@@ -23,9 +23,9 @@ Mi objetivo es alcanzar un buen crecimiento laboral desde el comienzo de mi carr
 * **Sura:** Trabajé en la mantención de la aplicación [Findo](https://play.google.com/store/apps/details?id=com.mx.sura.inversiones.findo&hl=en), aplicación para el ahorro en familia. Mis actividades principales fueron correcciones de UI, adición de nuevas funcionalidades, y la integración de diversas librerías propias de Sura. La aplicación se basaba en **Clean Architecture**, teniendo un gran enfoque en una arquitectura reactiva usando RxJava. Además, se utilizaban otras librerías de lo más variadas, como **OkHttp**, **Crashlytics** y **Picasso**, y algunas librerías de testing como **JUnit**, **Espresso** y **Robolectric**.
 
 **Wizeline:** *Software Engineer (Mobile-Android)* | (Septiembre 2019 - Actualidad)
-* **Fox:** Trabajé en la creación de componentes comunes internos para los productos de la cadena Fox. La finalidad de este proyecto fue el de estandarizar el consumo de servicios comunes en diversas aplicaciones de Fox. Con este proyecto, se buscó minimizar la pérdida de memoria, la carga de los servidores de Fox, simplificar la integración de los servicios y agilizar el proceso de creación de productos. Mi responabilidades en este proyecto fue la de incluir nuevas funcionalidades a los componentes, realizar pruebas unitarias y de integración, actualizar documentación, hacer revisiones de código, hacer un poco de refactorización, etc. Las interacciones se llevaron a cabo con equipos de Fox, por lo que la comunicación fue completamente en inglés. Además, este proyecto implementaba una arquitectura propia, diseñada por gente interna en fox. Se buscaba que el código fuese lo más limpio posible, por lo que el uso de dependencias se limitó a **OkHttp**, **Corutinas de Koltin** y algunas dependencias de **AndroidX** o **Jetpack**.
+* **Fox:** Trabajé en la creación de componentes comunes internos para los productos de la cadena Fox. La finalidad de este proyecto fue el de estandarizar el consumo de servicios comunes en diversas aplicaciones de Fox. Con este proyecto, se buscó minimizar la pérdida de memoria, la carga de los servidores de Fox, simplificar la integración de los servicios y agilizar el proceso de creación de productos. Mis responabilidades en este proyecto fueron las de incluir nuevas funcionalidades a los componentes, realizar pruebas unitarias y de integración, actualizar documentación, hacer revisiones de código, hacer un poco de refactorización, etc. Las interacciones se llevaron a cabo con equipos de Fox, por lo que la comunicación fue completamente en inglés. Además, este proyecto implementaba una arquitectura propia, diseñada por gente interna en Fox. Se buscaba que el código fuese lo más limpio posible, por lo que el uso de dependencias se limitó a **OkHttp**, **Corutinas de Koltin** y algunas dependencias de **AndroidX** o **Jetpack**.
 
-* **Foodie:** Se trata de un proyecto interno de Wizeline utilizado para el servicio de comida. Con este proyecto, el usuairo era capaz de elegir los alimentos de su preferencia para ser consumidos en un día laboral dentro de Wizeline. Este proyecto fue visto como una extensión del servicio web que se ofrecía, con una serie de mejoras que las capacidades de Android podría oferecernos. El proyecto se encuentra basado en **Clean Architecture**, usando el patrón de diseño **MVVM**, lo cual permitió fuertemente la inclusión de programación reactiva en nivel de UI. Además, el proyecto utiliza **Apollo**, cliente para **GraphQL**, sin mencionar el inyector de dependencias **Koin** y **corutinas de Kotlin**.
+* **Foodie:** Se trata de un proyecto interno de Wizeline utilizado para el servicio de comida. Con este proyecto, el usuario era capaz de elegir los alimentos de su preferencia para ser consumidos en un día laboral dentro de Wizeline. Este proyecto fue visto como una extensión del servicio web que se ofrecía, con una serie de mejoras que las capacidades de Android podría oferecernos. El proyecto se encuentra basado en **Clean Architecture**, usando el patrón de diseño **MVVM**, lo cual permitió fuertemente la inclusión de programación reactiva en nivel de UI. Además, el proyecto utiliza **Apollo**, cliente para **GraphQL**, sin mencionar el inyector de dependencias **Koin** y **Corutinas de Kotlin**.
 
 ## Estudios
 **Ingeniería en Computación, con especialización en bases de datos**<br>
@@ -35,18 +35,18 @@ Universidad Nacional Autónoma De México, Facultad De Ingeniería (UNAM), 2014 
 
 ## Habilidades
 * Android Development
-	* Esenciales: Actividades, Fragmentos, XML, Arquitecture (Clean, Viper), Services, Intent Services, Broadcast Receivers, Ciclo de Vida de Actividades/Fragmentos, Shared Preferences.
-	* Librerías: Retrofit, Gson, RxJava (incluido RxAndroid y RxKotlin), Corutinas, OkHttpClient, Picasso, Glide, Dagger, Koin, Android Architecture Components, Room, SQLite, Firebase, Apollo, WorkManager, Material Design, etc.
+	* Esenciales: Actividades, Fragmentos, XML, Services, Intent Services, Broadcast Receivers, Ciclo de Vida de Actividades/Fragmentos, Shared Preferences.
+	* Librerías: Retrofit, Gson, RxJava (incluido RxAndroid y RxKotlin), Corutinas, OkHttpClient, Picasso, Glide, Dagger, Koin, Android Architecture Components, Room, SQLite, Firebase, Apollo, WorkManager, Material Design, Hilt, etc.
 	* Manejador de Dependencias: Gradle, Maven.
 	* Testing: Unit Tests (Junit), Integration Tests (Robolectric, Hamcrest, Espresso), End-To-End Tests, Mocking (Mockito, Mockwebserver)
 	* Patrones de Diseño: MVC, MVP, MVVM
-	* Arquitectura: **Clean Architecture**, **Viper Architecture**.
-	* Clean code. 
+	* Arquitectura: Clean Architecture, Viper Architecture.
+	* Clean Code. 
 * Java Development
-	* **Spring Boot**
+	* Spring Boot
 * Programación multiplataforma
-    * **React Native**
-    * **Flutter**
+    * React Native**
+    * Flutter
 * Lenguajes De Programación
 	* **Kotlin**, nivel avanzado.
 	* **Java**, nivel avanzado.
@@ -76,7 +76,7 @@ Universidad Nacional Autónoma De México, Facultad De Ingeniería (UNAM), 2014 
 	* *Sistemas de Información OLTP y SQL*
 	* *Administración de Bases de Datos*
 	* *Optimización de Consultas*
-	* Inteligencia de Negocios y Ciencia de Datos
+	* *Inteligencia de Negocios y Ciencia de Datos*
 	* *Bases de Datos NoSQL*
 	* *BD's Columnares y BD's en Memoria*
 	* *Medición de Rendimiento y Afinación* 
@@ -84,8 +84,8 @@ Universidad Nacional Autónoma De México, Facultad De Ingeniería (UNAM), 2014 
 
 ## Idiomas
 * **Inglés:** *nivel intermedio-avanzado*
+* **Francés:** *nivel avanzado*
+	* Certificación **B2** del **Diploma de Estudios en Lengua Francesa (DELF)** del Marco Común Europeo de Referencia para las Lenguas del Consejo de Europa.
 * **Español:** *lengua materna*
 	* Curso en escritura y estilo de la lengua española, por parte de la **Facultad de Ingeniería, UNAM.**
 	* Curso de expresión verbal y corporal, por parte de la **Facultad de Ingeniería, UNAM.**
-* **Francés:** *nivel avanzado*
-	* Certificación **B2** del **Diploma de Estudios en Lengua Francesa (DELF)** del Marco Común Europeo de Referencia para las Lenguas del Consejo de Europa.
