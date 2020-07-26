@@ -1,7 +1,7 @@
 # Erick Gonzalo Campos Galindo (CV)
 
 ### General Information
-* **Age:** 23 years old
+* **Age:** 24 years old
 * **Location:** Mexico City, Mexico
 
 ### Contact
@@ -39,17 +39,17 @@ Area: Physics - Mathematical.
 ## Skills
 * Android Development
 	* Essentials: Activities, Fragments, XML, Architecture (Clean, Viper), Services, Intent Services, Broadcast Receivers,  Activities/Fragments Lifecycle, Shared Preferences.
-	* Libraries: Retrofit, Gson, RxJava (included RxAndroid and RxKotlin), Corutinas, OkHttpClient, Picasso, Glide, Dagger, Koin, Android Architecture Components, Room, SQLite, Firebase, Apollo, WorkManager, Material Design, etc.
+	* Libraries: Retrofit, Gson, RxJava (included RxAndroid and RxKotlin), Corutinas, OkHttpClient, Picasso, Glide, Dagger, Koin, Android Architecture Components, Room, SQLite, Firebase, Apollo, WorkManager, Material Design, Hilt, etc.
 	* Dependency Manager: Gradle, Maven.
 	* Testing: Unit Tests (Junit), Integration Tests (Robolectric, Hamcrest, Espresso), End-To-End Tests, Mocking (Mockito, Mockwebserver)
 	* Design Patterns: MVC, MVP, MVVM.
-	* Architecture: **Clean Architecture**, **Viper Architecture**.
+	* Architecture: Clean Architecture Viper Architecture.
 	* Clean code. 
 * Java Development
-	* **Spring Booot**
+	* Spring Booot
 * Cross-platform programming
-    * **React Native**
-    * **Flutter**
+    * React Native
+    * Flutter
 * Programming Languages
 	* **Kotlin**, advanced level.
 	* **Java**, advanced level.
@@ -87,8 +87,8 @@ Area: Physics - Mathematical.
 
 ## Languages
 * **English**: *medium-advenced level*, fluent speaking.
+* **French**: *advanced level*
+	* Diploma in French Language Studies, **DELF B2**.
 * **Spanish**: *native language*
 	* Course on writing and style of the Spanish language, at the **School Of Engineering, UNAM**.
 	* Course of verbal and corporal expression, at the **School Of Engineering, UNAM**
-* **French**: *advanced level*
-	* Diploma in French Language Studies, **DELF B2**.
