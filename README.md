@@ -45,7 +45,7 @@ Universidad Nacional Autónoma De México, Facultad De Ingeniería (UNAM), 2014 
 * Java Development
 	* Spring Boot
 * Programación multiplataforma
-    * React Native**
+    * React Native
     * Flutter
 * Lenguajes De Programación
 	* **Kotlin**, nivel avanzado.
