@@ -70,13 +70,13 @@ Area: Physics - Mathematical.
 
 ## Certifications
 
-* **Cisco CCNA Program Certification, School Of Engineering, UNAM:** including the modules:
+* **Cisco CCNA Program Certification, School Of Engineering, UNAM,** including the modules:
 	* *Introduction To Networks*
 	* *Routing And Switching Essentials*
 	* *Scalling Networks* 
 	* *Connecting Networks*. 
 
-* **Diploma Of Tuning and Performance of Database, School Of Enginering, UNAM:** including the modules:
+* **Diploma Of Tuning and Performance of Database, School Of Enginering, UNAM,** including the modules:
 	* *OLTP Information Systems and SQL*
 	* *Databases Administrations*
 	* *Query Optimization*
