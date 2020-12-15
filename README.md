@@ -28,6 +28,8 @@ My main goal is to achieve a professional development right from the start of my
 
 * **Foodie:** I worked on a Wizeline internal service used for the catering service. This project allowed the users to choose their favorite meals for the whole laboral week in Wizeline. This project was seen as an extension of an already existing web service, and was expanded with a serie of improvements made possible thanks to the Android Framework (reminders, optimization of network calls, caching). This project was based on **Clean Architecture**, using the **MVVM** design pattern, which allowed me to include a reactive code in an UI level. Also, this project uses **Apollo**, an Android **GraphQL** client, in addition to **Koin** dependency injector and **Kotlin Coroutines**.
 
+* **Foodie (Flutter version):** In collaboration with other team members, the Wizeline Flutter Study Group was created. This little team is dedicated to teach and learn Flutter in an open community, where anybody can contribute with new ideas, architecture patterns, testing techniques, and other topics related to the crossplatform framework Flutter. We built a new version of Foodie using Flutter in order to learn Flutter in a more real way, learning from other experienced developers and sharing the experience of a real Flutter project. Also, with this project, we generated the app for both Android and iOS platforms. Some of the tools used in this project were: **BloC pattern**, **Staggered Animations**, **Internationalization**, and more.
+
 ## Academic Information
 **Computer Engineering, with Databases Speciality**<br>
 *With bachelor degree and professional license*<br>
@@ -83,6 +85,13 @@ Area: Physics - Mathematical.
 	* *In-memory Databases and Columnar Databases*
 	* *Performance Measurement and Tuning* 
 	* *Big Data*
+
+* **[The Complete 2020 Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/), Udemy,** where I learned:
+	* *The Dart Programming Languages*
+	* *Flutter Essential Widgets*
+	* *Flutter Architectural Patterns*
+	* *Flutter Project Structure*
+	* *Build Flutter apps using native code*
 
 ## Languages
 * **English**: *medium-advenced level*, fluent speaking.
