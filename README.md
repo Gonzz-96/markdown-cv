@@ -70,6 +70,13 @@ Area: Physics - Mathematical.
 
 ## Certifications
 
+* **[Associate Android Developer](https://developers.google.com/certification/associate-android-developer)**, earned in February 2021, and covered the core topics:
+  * *App functionality*
+  * *User interface*
+  * *Data management*
+  * *Debugging*
+  * *Testing*
+
 * **Cisco CCNA Program Certification, School Of Engineering, UNAM,** including the modules:
 	* *Introduction To Networks*
 	* *Routing And Switching Essentials*
