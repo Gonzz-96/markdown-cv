@@ -66,6 +66,13 @@ Universidad Nacional Autónoma De México, Facultad De Ingeniería (UNAM), 2014 
 
 ## Cursos / Certificaciones
 
+* **[Associate Android Developer](https://developers.google.com/certification/associate-android-developer)**, obtenida en febrero del 2021 y cubría los temas:
+  * *App functionality*
+  * *User interface*
+  * *Data management*
+  * *Debugging*
+  * *Testing*
+
 * **Programa de certificación Cisco CCNA, Facultad De Ingeniería:** concluyendo satisfactoriamente los módulos:
 	* *Introduction To Networks*
 	* *Routing And Switching Essentials*
