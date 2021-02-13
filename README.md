@@ -68,6 +68,14 @@ Domaine: Physique-Mathématique.
 * Experience avec des **Dispositifs Cisco** (switches et routers).
 
 ## Certifications
+
+* **[Associate Android Developer](https://developers.google.com/certification/associate-android-developer)**, obtenu en février du 2021, couvrant les subjets:
+  * *App functionality*
+  * *User interface*
+  * *Data management*
+  * *Debugging*
+  * *Testing*
+
 * **Programme de Certification Cisco CCNA, Faculté d'Ingénierie, UNAM:** dont les modules:
 	* *Introduction To Networks*
 	* *Routing And Switching Essentials*
