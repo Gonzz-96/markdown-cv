@@ -1,7 +1,6 @@
 # Erick Gonzalo Campos Galindo (CV)
 
 ### General Information
-* **Age:** 24 years old
 * **Location:** Mexico City, Mexico
 
 ### Contact
@@ -24,11 +23,15 @@ My main goal is to achieve a professional development right from the start of my
 * **Sura:** I provided support to the [Findo](https://play.google.com/store/apps/details?id=com.mx.sura.inversiones.findo&hl=en) application. My principal activities were making UI corrections, adding new functionalities, and integrating some Sura's libraries for Android. This application was based on **Clean Architecture**, having a huge focus in reactive programming using **RxJava**. Also, some other libraries were used in this project, such as: **OkHttp**, **Crashlytics** and **Picasso**, and for testing: **JUnit**, **Espresso** and **Robolectric**.
 
 **Wizeline:** *Software Enginer (Mobile-Android)* | (Sepember 2019 - Present)
-* **Fox:** I worked in the creation of common internal components (Android libraries) used by the products of the Fox chain. The goal of this project was to standardized the consume of common services in all of the Fox applications. Also, what this project looked for was to minimze the memory leaks, the workload of the Fox servers, to simplify the integration of services and to speed up the creation of new future products. My responsabilities were including new functionalities to the componentes, creating unit and integration tests, updating docs, making code reviews, a few refactor, etc. I worked closely with the Fox Android team, so all the interactions and communications were completely in english. Also, this project implemented a custom architecture. The code should be as clean as possible, so the amount of used libraries was minimized, and only **OkHttp**. **Kotlin Coroutines**, and **Androidx** dependencies were used.
+* **Television Channel:** I worked in the creation of common internal components (Android libraries) used by the products of this television channel chain. The goal of this project was to standardized the consume of common services in all of the available applications. Also, what this project looked for was to minimze the memory leaks, the workload of the channel servers, to simplify the integration of services and to speed up the creation of new future products. My responsabilities were including new functionalities to the componentes, creating unit and integration tests, updating docs, making code reviews, a few refactor, etc. I worked closely with the  Android team of the channel located in California, so all the interactions and communications were completely in english. Also, this project implemented a custom architecture. The code should be as clean as possible, so the amount of used libraries was minimized, and only **OkHttp**. **Kotlin Coroutines**, and **Androidx** dependencies were used.
 
 * **Foodie:** I worked on a Wizeline internal service used for the catering service. This project allowed the users to choose their favorite meals for the whole laboral week in Wizeline. This project was seen as an extension of an already existing web service, and was expanded with a serie of improvements made possible thanks to the Android Framework (reminders, optimization of network calls, caching). This project was based on **Clean Architecture**, using the **MVVM** design pattern, which allowed me to include a reactive code in an UI level. Also, this project uses **Apollo**, an Android **GraphQL** client, in addition to **Koin** dependency injector and **Kotlin Coroutines**.
 
 * **Foodie (Flutter version):** In collaboration with other team members, the Wizeline Flutter Study Group was created. This little team is dedicated to teach and learn Flutter in an open community, where anybody can contribute with new ideas, architecture patterns, testing techniques, and other topics related to the crossplatform framework Flutter. We built a new version of Foodie using Flutter in order to learn Flutter in a more real way, learning from other experienced developers and sharing the experience of a real Flutter project. Also, with this project, we generated the app for both Android and iOS platforms. Some of the tools used in this project were: **BloC pattern**, **Staggered Animations**, **Internationalization**, and more.
+
+* **Newspaper App**: I created a new Android application from scratch, using different technologies. This project represented a corner stone in my career, since it was my first solo project in Wizeline. I used technologies from androidx, Room, WorkManager, Firebase, etc. to bring a good user experience.
+
+* **E-Commerce Company:** I am currently working with the Android team of an extense e-commerce company. My principal main responsability is to add new technologies available for Android development environment to the app, in order to modernize the codebase. For example, we are creating a new refactored version of one of the most important screens in the app, using a new architecture and new tools for the Android Development.
 
 ## Academic Information
 **Computer Engineering, with Databases Speciality**<br>
@@ -40,11 +43,11 @@ Area: Physics - Mathematical.
 ## Skills
 * Android Development
 	* Essentials: Activities, Fragments, XML, Architecture (Clean, Viper), Services, Intent Services, Broadcast Receivers,  Activities/Fragments Lifecycle, Shared Preferences.
-	* Libraries: Retrofit, Gson, RxJava (included RxAndroid and RxKotlin), Corutinas, OkHttpClient, Picasso, Glide, Dagger, Koin, Android Architecture Components, Room, SQLite, Firebase, Apollo, WorkManager, Material Design, Hilt, etc.
+	* Libraries: Retrofit, Gson, RxJava (included RxAndroid and RxKotlin), Kotlin Corutines, OkHttpClient, Picasso, Glide, Dagger, Koin, Android Architecture Components, Room, SQLite, Firebase, Apollo, WorkManager, Material Design, Hilt, etc.
 	* Dependency Manager: Gradle, Maven.
 	* Testing: Unit Tests (Junit), Integration Tests (Robolectric, Hamcrest, Espresso), End-To-End Tests, Mocking (Mockito, Mockwebserver)
 	* Design Patterns: MVC, MVP, MVVM.
-	* Architecture: Clean Architecture Viper Architecture.
+	* Architecture: Clean Architecture, Viper Architecture.
 	* Clean code. 
 * Java Development
 	* Spring Booot
@@ -70,12 +73,12 @@ Area: Physics - Mathematical.
 
 ## Certifications
 
-* **[Associate Android Developer](https://developers.google.com/certification/associate-android-developer)**, earned in February 2021, and covered the core topics:
-  * *App functionality*
-  * *User interface*
-  * *Data management*
-  * *Debugging*
-  * *Testing*
+* **[Associate Android Developer](https://developers.google.com/certification/associate-android-developer)**, earned in February 2021 ([you can take a look to my credentials here](https://www.credential.net/0f850789-9cef-4ebe-8f58-3b56f763c62b)), and covered the core topics:
+    * *App functionality*
+    * *User interface*
+    * *Data management*
+    * *Debugging*
+    * *Testing*
 
 * **Cisco CCNA Program Certification, School Of Engineering, UNAM,** including the modules:
 	* *Introduction To Networks*
@@ -101,7 +104,7 @@ Area: Physics - Mathematical.
 	* *Build Flutter apps using native code*
 
 ## Languages
-* **English**: *medium-advenced level*, fluent speaking.
+* **English**: *medium-advenced level*, fluent speaking and professional writting (you can take a look to [my personal medium blog](https://gonzcampos.medium.com/)).
 * **French**: *advanced level*
 	* Diploma in French Language Studies, **DELF B2**.
 * **Spanish**: *native language*
