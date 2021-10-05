@@ -22,7 +22,7 @@ My main goal is to achieve a professional development right from the start of my
 **Vinco Orbis:** *Android Developer Jr.* | (June 2019 - August 2019)
 * **Sura:** I provided support to the [Findo](https://play.google.com/store/apps/details?id=com.mx.sura.inversiones.findo&hl=en) application. My principal activities were making UI corrections, adding new functionalities, and integrating some Sura's libraries for Android. This application was based on **Clean Architecture**, having a huge focus in reactive programming using **RxJava**. Also, some other libraries were used in this project, such as: **OkHttp**, **Crashlytics** and **Picasso**, and for testing: **JUnit**, **Espresso** and **Robolectric**.
 
-**Wizeline:** *Software Enginer (Mobile-Android)* | (Sepember 2019 - September 2021)
+**Wizeline:** *Software Engineer III, Android* | (Sepember 2019 - September 2021)
 * **Television Channel:** I worked in the creation of common internal components (Android libraries) used by the products of this television channel chain. The goal of this project was to standardized the consume of common services in all of the available applications. Also, what this project looked for was to minimze the memory leaks, the workload of the channel servers, to simplify the integration of services and to speed up the creation of new future products. My responsabilities were including new functionalities to the componentes, creating unit and integration tests, updating docs, making code reviews, a few refactor, etc. I worked closely with the  Android team of the channel located in California, so all the interactions and communications were completely in english. Also, this project implemented a custom architecture. The code should be as clean as possible, so the amount of used libraries was minimized, and only **OkHttp**. **Kotlin Coroutines**, and **Androidx** dependencies were used.
 
 * **Foodie:** I worked on a Wizeline internal service used for the catering service. This project allowed the users to choose their favorite meals for the whole laboral week in Wizeline. This project was seen as an extension of an already existing web service, and was expanded with a serie of improvements made possible thanks to the Android Framework (reminders, optimization of network calls, caching). This project was based on **Clean Architecture**, using the **MVVM** design pattern, which allowed me to include a reactive code in an UI level. Also, this project uses **Apollo**, an Android **GraphQL** client, in addition to **Koin** dependency injector and **Kotlin Coroutines**.
@@ -31,9 +31,12 @@ My main goal is to achieve a professional development right from the start of my
 
 * **Newspaper App**: I created a new Android application from scratch, using different technologies. This project represented a corner stone in my career, since it was my first solo project in Wizeline. I used technologies from androidx, Room, WorkManager, Firebase, etc. to bring a good user experience.
 
-* **E-Commerce Company:** I am currently working with the Android team of an extense e-commerce company. My principal main responsability is to add new technologies available for Android development environment to the app, in order to modernize the codebase. For example, we are creating a new refactored version of one of the most important screens in the app, using a new architecture and new tools for the Android Development.
+* **E-Commerce Company:** I worked with the Android team of an extense e-commerce company. My principal main responsability was to add new technologies available for Android development environment to the app, in order to modernize the codebase. For example, created a new refactored version of one of the most important screens in the app, using a new architecture and new tools for the Android Development.
 
-**Etsy:** *Android Engineer II* | (Sepember 2021 - Present)
+**Etsy:** *Software Engineer II, Android* | (September 2021 - Present)
+
+Etsy is my current workplace, and, as a product company, I've been working principally with the Etsy 
+Android app code base. My first task was to create a new refactored version of listing screen, one of the most (if not the most) important screen in the app. And I'm currently working in the Modernization team, which main responsability is to keep the code updated with the latest Android libraries, methodologies, and frameworks.
 
 ## Academic Information
 **Computer Engineering, with Databases Speciality**<br>
@@ -106,7 +109,7 @@ Area: Physics - Mathematical.
 	* *Build Flutter apps using native code*
 
 ## Languages
-* **English**: *medium-advenced level*, fluent speaking and professional writting (you can take a look to [my personal medium blog](https://gonzcampos.medium.com/)).
+* **English**: *advanced level*, fluent speaking and professional writting (you can take a look to [my personal Medium blog](https://gonzcampos.medium.com/)).
 * **French**: *advanced level*
 	* Diploma in French Language Studies, **DELF B2**.
 * **Spanish**: *native language*
