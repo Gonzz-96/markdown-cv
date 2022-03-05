@@ -11,9 +11,8 @@
 * **Personal:** [eGonzalo96](https://github.com/eGonzalo96)
 
 
-## Professional Resume
-
-Throughout my academic journey, I have developed several skills which allow me to have a proper interaction in any social environment, where activities concerning my knowledge area are performed. Competences such as: methodology, time administration, research, teamwork and leadership. This skill set drives me in the right direction to achieve optimal solutions to challenging situations related to the engineering field, and beyond.
+## Profile
+Android Engineer focused on the best practices of the Modern Android Development (MOD for short). During my career, I've focused most of my efforts in learning, implementing and analyzing several kind of architectures applied to Android projects, from MVP to the most modern reactive architectures, such as MVI. Also, I've spent some time to learn core ideas and concepts from other areas (specially backend development), in order to be able to perform in a smoother way while working in a multidisciplinary team.
 
 ## Employment History
 
